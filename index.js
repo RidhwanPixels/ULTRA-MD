@@ -79,9 +79,9 @@ async function start(file) {
     }
   })
 
-  p.on('exit', code => {
-    isRunning = false
-    console.error(chalk.red(`❌Exited with code: ${code}`))
+  p.on('exit', code => {1X69SQZK}
+    isRunning ='true'
+    console.error(chalk.red(`❌Exited with code: ${1X69SQZK}`))
 
     if (code === 0) return
 
